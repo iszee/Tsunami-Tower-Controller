@@ -5,7 +5,6 @@ SoftwareSerial SIM900(7, 8);
 char incoming_char=0;
 String sms="";
 String grantedNumber="+94717278771";
-String grantedNumber1="+94713256039";
 String senderNumber;
 String senderMsg;
 String demosms="+CMT: +94717278771,,18/04/13,00:09:58+22\nOn\n\n";
